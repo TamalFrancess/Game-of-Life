@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|c:\\users\\tamal\\onedrive\\documents\\github\\game-of-life\\game of life\\game of life\\gameoflife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|solutionrelative:game of life\\gameoflife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\game of life\\gameoflifebuiltin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|solutionrelative:game of life\\gameoflifebuiltin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\game of life\\gameoflifebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|solutionrelative:game of life\\gameoflifebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|c:\\users\\tamal\\onedrive\\documents\\github\\game-of-life\\game of life\\game of life\\gameoflife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{55076882-9285-464F-92BD-820394C9F3A6}|Game of Life\\Game of Life.csproj|solutionrelative:game of life\\gameoflife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOfLife.cs",
+              "DocumentMoniker": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLife.cs",
+              "RelativeDocumentMoniker": "Game of Life\\GameOfLife.cs",
+              "ToolTip": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLife.cs",
+              "RelativeToolTip": "Game of Life\\GameOfLife.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAwwNUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:35:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOfLifeBuiltIn.cs",
+              "DocumentMoniker": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLifeBuiltIn.cs",
+              "RelativeDocumentMoniker": "Game of Life\\GameOfLifeBuiltIn.cs",
+              "ToolTip": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLifeBuiltIn.cs",
+              "RelativeToolTip": "Game of Life\\GameOfLifeBuiltIn.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:34:23.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOfLifeBase.cs",
+              "DocumentMoniker": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLifeBase.cs",
+              "RelativeDocumentMoniker": "Game of Life\\GameOfLifeBase.cs",
+              "ToolTip": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLifeBase.cs",
+              "RelativeToolTip": "Game of Life\\GameOfLifeBase.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAUwEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T21:31:01.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOfLife.cs",
+              "DocumentMoniker": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLife.cs",
+              "RelativeDocumentMoniker": "Game of Life\\GameOfLife.cs",
+              "ToolTip": "C:\\Users\\tamal\\OneDrive\\Documents\\GitHub\\Game-of-Life\\Game of Life\\Game of Life\\GameOfLife.cs",
+              "RelativeToolTip": "Game of Life\\GameOfLife.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAwJ0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:41:22.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
